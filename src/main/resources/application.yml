@@ -1,0 +1,33 @@
+wx:
+  login:
+    # 微信小程序appid
+    app-id: xxx
+    # 小程序密钥
+    app-secret: xxx
+  pay:
+    # 微信小程序appid
+    app-id: xxx
+    # 商户号
+    mch-id: xxx
+    # 证书序列号
+    mch-serial-no: xxx
+    # 小程序密钥
+    app-secret: xxx
+    # api密钥
+    api-key: xxx
+    # 回调接口地址
+    notify-url: xxx
+    # 证书地址
+    key-path: xxx
+    cert-path: xxx
+    cert-p12-path: xxx
+aliyun:
+  oss:
+    # bucket名称
+    bucket: xxx
+    # ossID
+    id: xxx
+    # oss密钥
+    secret: xxx
+    # oss地址
+    path: xxx
